@@ -235,3 +235,9 @@ Member Id: 11
 * Favourite quote: "Imagination is more important than knoledge."
 * Author of quote: Albert Einstein
 * Role model: Marshal Mathers
+
+* Favourite Programming Language: Python
+* Track of interest: Data Science 
+* Favourite quote: “Somewhere, something incredible is waiting to be known.”
+* Author of quote: Carl Sagan
+* Role model: Carl Sagan
